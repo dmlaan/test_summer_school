@@ -1,9 +1,6 @@
 <!-- 
 <a name="readme-top"></a>
 <!--
-*** This repository contains 2 python scripts:
-*** One is the code to run --> particle_locating_copy.py
-*** The other one is a python script containing functions used by the code --> functions_image_analysis.py
 -->
 
 <!-- TABLE OF CONTENTS -->
@@ -14,9 +11,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -30,17 +24,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-*** This repository contains 2 python scripts:
-*** One is the code to run --> particle_locating_copy.py
-*** The other one is a python script containing functions used by the code --> functions_image_analysis.py
+This repository contains 2 python scripts:
+* One is the code to run --> particle_locating_copy.py
+* The other one is a python script containing functions used by the code --> functions_image_analysis.py
+
+The mp4 video can be used to test the script. 
 
 
 ### Built With
 
-* [![Python][Next.js]][Python-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* Python
 
 
 ### Installation
@@ -57,8 +50,6 @@
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
