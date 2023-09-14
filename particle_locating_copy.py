@@ -47,7 +47,6 @@ file = "test_video.mp4"
 # file = files[0]
 
 #preprocessing of the video: removing the background for each frame
-sigma = 1
 n = 2000 #the amount of frames to average over when subtracting the background
 video = as_grey(pims.open(file)) #frames in video converted to greyscale image
 bgd = calc_bgframe(video, n=n)
