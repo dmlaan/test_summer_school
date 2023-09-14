@@ -30,6 +30,15 @@ This repository contains 2 python scripts:
 
 The mp4 video can be used to test the script. 
 
+The script locates cells in microscopy videos
+The goal is to analyse swimming cells in videos of 5 minutes, imaged with 30 frames per second. (mp4 format)
+Before tracking the cells and obtaining the trajectories, the cells need to be found in the video.
+This code finds the particle locations of the cells for each frame.
+It can take a couple of minutes to finish the code because the videos are 5 minutes, which have 9000 frames.
+
+The output will be a pickle file containing the particle locations for each frame, which can be opened and used in Python.
+In a next code these particle locations will be linked to trajectories.
+
 
 ### Built With
 
