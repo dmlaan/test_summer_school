@@ -39,7 +39,7 @@ import glob as glob  # glob2 version 0.7
 path = "/Users/laan/Desktop/Workspace/test_summer_school/"  # specify the path where your videos are saved
 
 # When analyzing 1 video
-file = "did1_1cm.mp4"
+file = "test_video.mp4"
 
 # When analyzing multiple videos at the same time
 # files = glob.glob(path + '*.mp4')
